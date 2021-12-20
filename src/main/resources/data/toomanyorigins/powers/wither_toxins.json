@@ -5,10 +5,10 @@
     "effect": {
       "effect": "minecraft:wither",
       "amplifier": 1,
-      "duration": 100
+      "duration": 150
     }
   },
-  "cooldown": 120,
+  "cooldown": 50,
   "hud_render": {
     "should_render": true,
     "sprite_location": "toomanyorigins:textures/gui/tmo_resource_bar.png",
