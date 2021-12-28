@@ -2,6 +2,10 @@
 	"powers": [
 		"toomanyorigins:wither_toxins",
 		"origins:nether_spawn",
+		"origins:shulker_inventory",
+		"origins:natural_armor",
+		"origins:strong_arms",
+		"origins:strong_arms_break_speed",
 		"toomanyorigins:black_thumb",
 		"toomanyorigins:weariness",
 		"toomanyorigins:scorched_structure",
